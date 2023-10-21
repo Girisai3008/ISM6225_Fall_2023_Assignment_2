@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mounica Pothureddy\\Downloads\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj": {}
+    "C:\\Users\\giris\\Source\\Repos\\Girisai3008\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mounica Pothureddy\\Downloads\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj": {
+    "C:\\Users\\giris\\Source\\Repos\\Girisai3008\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mounica Pothureddy\\Downloads\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj",
+        "projectUniqueName": "C:\\Users\\giris\\Source\\Repos\\Girisai3008\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj",
         "projectName": "ISM6225_Fall_2023_Assignment_2",
-        "projectPath": "C:\\Users\\Mounica Pothureddy\\Downloads\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj",
-        "packagesPath": "C:\\Users\\Mounica Pothureddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mounica Pothureddy\\Downloads\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\obj\\",
+        "projectPath": "C:\\Users\\giris\\Source\\Repos\\Girisai3008\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2.csproj",
+        "packagesPath": "C:\\Users\\giris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giris\\Source\\Repos\\Girisai3008\\ISM6225_Fall_2023_Assignment_2\\ISM6225_Fall_2023_Assignment_2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mounica Pothureddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\giris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
